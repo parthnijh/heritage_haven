@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background:url(beautiful-luxury-bright-yellow-decorative-background_1055-7293.avif);
+}
+
+nav{
+    display: flex;
+    justify-content: right;
+    gap: 20px;
+    background-color: #b78727 ;
+    height: 10vh;
+
+}
+
+nav li{
+    padding:10px ;
+    list-style: none;
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color: antiquewhite;
+   
+}
+
+nav a{
+    text-decoration: none;
+}
+
+nav :hover{
+    color: gold;
+}
+
+
+img{
+    border-radius: 50%;
+    
+    
+    
+
+}

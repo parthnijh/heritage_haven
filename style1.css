@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(./beautiful-luxury-bright-yellow-decorative-background_1055-7293.avif);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+h2{
+    padding: 20px;
+    color: antiquewhite;
+    font-size: 20px;
+    
+    text-align: center;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+   
+}
+
+
+h1{
+    color: #Ffd700;
+    font-size: 39px;
+    text-align: center;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+
+}
+
+
+.big{
+    font-size: 60px;
+}
+
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.small{
+    color: #Ffd700;
+    font-size: 30px;
+}
+
+
+nav{
+    display: flex;
+    justify-content: right;
+    gap: 20px;
+    background-color: #b78727 ;
+    height: 10vh;
+
+}
+nav :hover{
+    color: gold;
+}
+
+nav li{
+    padding:10px ;
+    list-style: none;
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+   
+    color: antiquewhite;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+
+.list{
+    color: #Ffd700;
+}
+
+h2{
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+
+}
